@@ -1,1 +1,4 @@
 pymongo == 4.2.0
+
+-e .
+# -e . means install the package in the current directory as an editable package
